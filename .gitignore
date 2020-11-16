@@ -1,0 +1,5 @@
+bla.temp
+temp.dat
+*.pdf
+!result.pdf
+#Not ignore result.pdf 
